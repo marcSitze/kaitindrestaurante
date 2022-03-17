@@ -1,0 +1,9 @@
+/* use rem for sizes 1rem = 10px */
+.container {
+  background-color: red;
+  width: 20rem;
+}
+
+.text {
+  font-size: 1.4rem;
+}
